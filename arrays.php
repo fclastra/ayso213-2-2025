@@ -19,6 +19,7 @@ echo var_dump[$rstlogin]; //0 => "fabio", 1 => "carlos", 2 => "pepe"
 ?>
 
 <?php
+//Prueba pull
 $mi_array = array(23,45,76,23,65);
 
 echo $mi_array[2];
